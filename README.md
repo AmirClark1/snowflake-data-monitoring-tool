@@ -4,7 +4,6 @@
 
 Below is an example of the tool detecting a dynamic table failure:
 
-![Demo Output](demo.png)
 
 
 ## Overview
